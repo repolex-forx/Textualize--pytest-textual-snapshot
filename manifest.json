@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "Textualize",
+  "repo": "pytest-textual-snapshot",
+  "versions": [
+    {
+      "commit": "893f812d44bbe37ddd4fc356d0d9dbb5725301b2",
+      "parsed_at": "2026-10-28T12:19:23.349093+00:00",
+      "filetree": "filetree/893f812d44bbe37ddd4fc356d0d9dbb5725301b2.nq.gz",
+      "blobs": [
+        "blob/62ce991983e028c17228890a82447dcc151b31b7.nq.gz",
+        "blob/75073b163019f057857d34b96b1688cc634ca329.nq.gz",
+        "blob/44c5fd4cd6acf9018d7778edcbf41bd015666d63.nq.gz",
+        "blob/003901d70317d763bc74290cd049d2bdd6c31078.nq.gz",
+        "blob/a36204b95364a9322a9e2cbbc0f226cc20876a5a.nq.gz",
+        "blob/5ac5d0ab2baf36c24223b4e6cd1fc668d2954c12.nq.gz",
+        "blob/66157b2e204155ae043dc8294568d233d7305713.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
