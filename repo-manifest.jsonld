@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Textualize/pytest-textual-snapshot/commit/893f812d44bbe37ddd4fc356d0d9dbb5725301b2",
       "git:hexsha": "893f812d44bbe37ddd4fc356d0d9dbb5725301b2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T12:22:05.744870+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Textualize/pytest-textual-snapshot/commit/8a762c3dba5b84af3eb46afe77a835a7f03409d9",
