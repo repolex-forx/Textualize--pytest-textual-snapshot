@@ -1,0 +1,11 @@
+{
+  "org": "Textualize",
+  "repo": "pytest-textual-snapshot",
+  "versions": [
+    {
+      "commit": "893f812d44bbe37ddd4fc356d0d9dbb5725301b2",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:22:05.745322+00:00"
+    }
+  ]
+}
